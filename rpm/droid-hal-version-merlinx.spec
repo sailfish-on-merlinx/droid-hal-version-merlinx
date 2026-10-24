@@ -8,6 +8,5 @@
 %define droid_target_aarch64 1
 
 %define have_vibrator_native 1
-%define have_led 1
 
 %include droid-hal-version/droid-hal-version.inc
